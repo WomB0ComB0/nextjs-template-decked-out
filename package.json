@@ -77,7 +77,7 @@
     "lint-staged": "^15.2.2",
     "node-talisman": "^1.29.11",
     "start-server-and-test": "^2.0.3",
-    "storybook": "^7.6.17",
+    "storybook": "^7.6.21",
     "storybook-dark-mode": "^3.0.3",
     "typescript": "5.4.3",
     "vitest": "^1.4.0"
